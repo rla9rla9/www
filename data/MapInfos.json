@@ -1,9 +1,0 @@
-[
-null,
-{"id":1,"expanded":true,"name":"지하실_인트로1","order":1,"parentId":0,"scrollX":1035.2727272727273,"scrollY":604.3636363636364},
-{"id":2,"expanded":true,"name":"지하실_붕대남 퇴장","order":3,"parentId":1,"scrollX":1035.2727272727273,"scrollY":866.1818181818182},
-{"id":3,"expanded":false,"name":"대칭방","order":6,"parentId":5,"scrollX":893.4545454545455,"scrollY":494.1818181818182},
-{"id":4,"expanded":true,"name":"지하실_인트로2","order":2,"parentId":1,"scrollX":1081.4545454545455,"scrollY":644.3636363636364},
-{"id":5,"expanded":true,"name":"지하실_시작방","order":4,"parentId":0,"scrollX":1035.2727272727273,"scrollY":726.5454545454546},
-{"id":6,"expanded":true,"name":"지하실_복도","order":5,"parentId":5,"scrollX":1497.818181818182,"scrollY":702.5454545454546}
-]
